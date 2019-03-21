@@ -1,0 +1,16 @@
+.header{
+    background-color: rgb(197, 79, 43);
+
+}
+.menu{
+    background-color: yellow;
+}
+.content{
+    background-color:green ;
+}
+.aside{
+    background-color: yellow; 
+}
+.footer{
+    background-color: rgb(197, 79, 43);
+}
